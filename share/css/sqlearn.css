@@ -1,0 +1,16 @@
+body{
+	background: #313131;
+}
+.sidecontent-btn {
+    top: 50px;
+}
+.sidebar-btn {
+    top: 25px;
+}
+.fancybox-is-open .fancybox-bg {
+    opacity: 1;
+}
+.fancybox-button {
+    height: 55px;
+    width: 55px;
+}
